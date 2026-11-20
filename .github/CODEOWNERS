@@ -1,0 +1,7 @@
+# La revue doit être activée dans les règles GitHub du dépôt.
+/domain/src/test/ @profacile
+/bootstrap/src/test/ @profacile
+/.github/ @profacile
+/pom.xml @profacile
+/domain/pom.xml @profacile
+/bootstrap/pom.xml @profacile
